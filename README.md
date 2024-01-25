@@ -10,7 +10,7 @@ This is a simple Rust program that generates a phrase using the "Simon Says" gam
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/simon_says.git
+   git clone https://github.com/VimalanS369/simon_says.git
    cd simon_says
    ```
 
